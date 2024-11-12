@@ -594,3 +594,17 @@ footer{
     outline: none;
     border: none;
 }
+
+#input_sub{
+    background: url("../images/btn_send.png");
+    width: 154px;
+    height: 23px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    color: transparent;
+    margin: 12px 0 0 700px;
+}
+
+
